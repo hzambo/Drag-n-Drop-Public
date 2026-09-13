@@ -67,6 +67,6 @@
         "*.sln": "*.csproj",
         "*.slnx": "*.csproj"
     },
-    "dotnet.defaultSolution": "Drag n Drop VR.slnx",
+    "dotnet.defaultSolution": "Drag-n-Drop-Public.slnx",
     "dotnet.enableWorkspaceBasedDevelopment": false
 }
